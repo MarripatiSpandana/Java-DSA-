@@ -1,4 +1,4 @@
-//Leetcode:49- Longest Common Prefix
+//Leetcode:14- Longest Common Prefix
 //Approach: Shortest String and prefix comparision 
 //TC:O(n*m)
 //SC:O(m)
