@@ -1,7 +1,7 @@
 //Leetcode 345: Reverse Vowels
 //Approach: Two pointer 
 //TC:O(n)
-//SC:O(1)
+//SC:O(n)
 class Solution {
     public String reverseVowels(String s) {
         int left=0;
